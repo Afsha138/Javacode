@@ -31,6 +31,6 @@ public class Beans_Main
     
     System.out.println(b1.equals(b2));
   }
-}intln(b1.equals(b2));
+}intln(
   }
 }
