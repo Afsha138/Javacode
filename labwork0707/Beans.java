@@ -28,7 +28,9 @@ public class Beans_Main
   {
     Beans b1=new Beans("rajma","brown","long","oval");
     Beans b2=new Beans("rajma","brown","long","oval");
-    System.out.println(b1==b2);
+    
     System.out.println(b1.equals(b2));
+  }
+}intln(b1.equals(b2));
   }
 }
